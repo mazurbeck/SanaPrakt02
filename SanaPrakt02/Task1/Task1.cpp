@@ -5,10 +5,9 @@
 
 int main()
 {
-    std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
-    std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
-    std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
-    std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
+    std::cout << "Курси Sana\n";
+    std::cout << "Курси Sana Commerce \n";
+    std::cout << "Курси Sana Commerce Software \n";
     std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
     std::cout << "Курси Sana Commerce Software Development Bootcamp\n";
 }
